@@ -1,7 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:ola_mundo/components/espacamento_h.dart';
 import 'package:ola_mundo/components/titulo1.dart';
-
+import 'package:ola_mundo/components/espacamento_h.dart';
 
 class Cardapio extends StatefulWidget {
   const Cardapio({super.key});
